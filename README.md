@@ -8,3 +8,6 @@ Some facts about me:
 - I want to understand the things I work with properly
 - I like to have a strong compiler by my side
 - I admire elegant code and sometimes I get lost in it
+
+![](https://raw.githubusercontent.com/pSub/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/pSub/github-stats/master/generated/languages.svg#gh-light-mode-only)
