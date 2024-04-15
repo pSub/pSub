@@ -9,5 +9,4 @@ Some facts about me:
 - I like to have a strong compiler by my side
 - I admire elegant code and sometimes I get lost in it
 
-![](https://raw.githubusercontent.com/pSub/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/pSub/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Pascal&api_domain=wakapi.pascal-wittmann.de&disable_animations=true&langs_count=10&hide=unknown&custom_title=Wakapi%20Statistics%20%(03/2014%20-%20Today))
