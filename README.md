@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> I have moved most of my work from GitHub to Codeberg (https://codeberg.org/pSub).
+> The GitHub account will be used soley to contribute to projects hosted on GitHub.
+
+
 ### Hi there, I'm Pascal Wittmann 👋
 
 I am a software developer from Hamburg, Germany. My focus is the backend. However, I do not mind taking a glimpse into the frontend from time to time.
